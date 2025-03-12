@@ -38,10 +38,7 @@ These statistics showcase my overall activity and the languages I mainly use in 
 ## Contact Me
 
 📫 You can reach me via the following channels:
-- Email: [hasyim56@mail.com](mailto:hasyim56@mail.com)
-- LinkedIn: [HASYIM56](https://www.linkedin.com/in/HASYIM56)
-- Twitter: [@HASYIM56](https://twitter.com/HASYIM56)
-
+- Email: [hasyim56@mail.com](mailto:m.aliahasyim1802@mail.com)
 Feel free to reach out if you have any inquiries, suggestions, or simply want to connect! I'm always open to collaborating on exciting projects and contributing to the coding education community.
 
 Thank you for visiting my GitHub profile! Happy coding! 😄
